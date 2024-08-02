@@ -1,0 +1,16 @@
+[
+  {
+    "nickname": "Testing",
+    "name": "ivysaur",
+    "id": 2,
+    "caughtAt": "2024-08-02T08:26:10.926Z",
+    "firstCount": 1,
+    "secondCount": 0
+  },
+  {
+    "nickname": "Testing 2",
+    "name": "venusaur",
+    "id": 3,
+    "caughtAt": "2024-08-02T08:26:45.495Z"
+  }
+]
